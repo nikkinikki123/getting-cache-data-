@@ -1,0 +1,50 @@
+.mainDiv{
+  background-color:grey;
+  border:solid black;
+  border-width: thick;
+  text-align: center;
+  padding:2%;
+}
+.pDiv{
+    background-color: pink;
+    display: flex;
+    text-align: center;
+  justify-content: space-between;
+  border:solid black;
+
+    box-sizing: border-box;
+}
+.eduDiv{
+  display: flex;
+  background-color:#68A15D;
+  justify-content: space-between;
+  border:solid black;
+    text-align: center;
+  border-width: thick;
+    box-sizing: border-box;
+}
+.sscDiv{
+  /* width: 30%; */
+  border-width: thick;
+  background-color: blue;
+  text-align: center;
+  border:solid black;
+    box-sizing: border-box;
+}
+.interDiv{
+  /* width: 30%; */
+  border-width: thick;
+  background-color: yellow;
+  border:solid black;
+  text-align: center;
+    box-sizing: border-box;
+
+}
+.btechDiv{
+   /* width: 30%; */
+ border-width: thick;
+  background-color:pink;
+  text-align: center;
+  border:solid black;
+  box-sizing: border-box;
+}

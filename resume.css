@@ -1,0 +1,14 @@
+.mainDiv{
+  display: flex;
+  justify-content: space-between;
+}
+.leftDiv{
+  width:30%;
+  background-color: yellow;
+  border-radius: 2px;
+}
+.rightDiv{
+  width:68%;
+  background-color: green;
+  border-radius: 2px;
+}
